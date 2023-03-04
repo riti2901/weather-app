@@ -1,7 +1,7 @@
 function App() {
   return (
-    <div className="App">
-    hey
+    <div className="title text-3xl bg-red-200 text-center">
+    weather
     </div>
   );
 }
