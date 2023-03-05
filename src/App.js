@@ -1,7 +1,7 @@
+
 function App() {
   return (
-    <div className="mx-auto max-w-screen-md ">
-
+    <div>
     </div>
   );
 }
